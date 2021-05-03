@@ -1,5 +1,3 @@
----
-title: "Welcome to my blog"
----
+# My Site
 
-I'm glad you are here. I plan to talk about ...
+This is **my** site.
